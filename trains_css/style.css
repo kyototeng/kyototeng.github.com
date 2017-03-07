@@ -1,0 +1,39 @@
+body{
+background-color:#2F2B2A;
+font-family: arial, helvetica, sans-serif;
+color: #FCFAF9;
+}
+
+.header{
+text-align: center;
+}
+
+.container{
+width: 60%;
+margin:30px auto;
+}
+
+.img_cont {
+float: left;
+width: 25%;
+margin: 2% 2% 50px 5%;
+}
+
+.img_cont img{
+width: 100%;
+height: 120px
+}
+
+.img_cont p{
+text-align:center;
+}
+
+.result img{
+display: block;
+margin: auto;
+width: 60%;
+}
+
+.result h1{
+text-align: center;
+}
