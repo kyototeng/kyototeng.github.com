@@ -1,0 +1,95 @@
+body,html {
+ background-color: #f6f6f6;
+}
+
+#painting {
+ background-color: #fff4db;
+ width: 400px;
+ height: 400px;
+ margin: 0px auto 30px auto;
+ box-shadow: 10px 10px 0px #8d8d8d
+}
+
+#topbox  {
+ width: 290px;
+ height: 290px;
+}
+
+
+
+#topbox  {
+ width: 290px;
+ height: 290px;
+}
+
+#divider1 {
+ width:10px;
+ height: 290px;
+}
+
+.mediumbox {
+ width: 100px;
+ height: 140px;
+}
+
+#divider2 {
+ width: 100px;
+ height: 10px;
+}
+ 
+#divider3 {
+ width: 400px;
+ height: 10px;
+}
+
+.smallbox {
+ width: 20px;
+ height: 45px;
+}
+
+#bottomrow {
+ height: 90px;
+ width: 20px;
+}
+
+#divider4 {
+ width: 20px;
+ height: 10px;
+}
+
+
+.divider5 {
+ width: 10px;
+ height: 100px;
+}
+
+#bottombox {
+ width: 260px;
+ height: 100px;
+}
+
+#lastbox {
+ width: 100px;
+ height: 100px;
+}
+
+.red {
+ background-color: red;
+}
+
+.blue {
+ background-color: blue;
+}
+
+.yellow {
+ background-color: yellow;
+}
+
+.black {
+ background-color: black;
+}
+
+.right {
+ float: right;
+}
+
